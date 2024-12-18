@@ -1,0 +1,24 @@
+.body{
+
+    background-color: rgb(250, 222, 210);
+}
+
+.title{
+    text-align: center;
+}
+
+.img{
+    display: block;
+    margin: 0 auto;
+    border: 20px rgb(240, 174, 139) ;
+}
+
+.recetas-container{
+    font-size: large;
+    font-weight: bolder;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    padding: 24px;
+
+}

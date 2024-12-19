@@ -16,9 +16,21 @@
 .recetas-container{
     font-size: large;
     font-weight: bolder;
+    text-align: center;
     display: flex;
     flex-wrap: wrap;
     justify-content: space-around;
     padding: 24px;
+    margin-top: 10px;
 
+}
+
+.div{
+    background-color: #A14E32;
+    margin: 10px;
+    padding: 10px;
+    border: 1px solid black;
+    border-radius: 10px;
+    width: 300px;
+    height: 250px;
 }
